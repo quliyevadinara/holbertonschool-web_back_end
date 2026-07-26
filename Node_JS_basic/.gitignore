@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+package-lock.json
+
+# OS / editor files
+.DS_Store
+.vscode/
+
+# Logs
+*.log
